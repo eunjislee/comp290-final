@@ -27,12 +27,16 @@ The final product will help students manage their mental health through small ta
 The programming language I will be working in is Swift. 
 
 Swift Tutorial Playlist: https://youtu.be/PwXgg9adkdM?si=48miqz9eQhIJvwSz
+
 General Swift Tutorials: https://www.geeksforgeeks.org/swift-tutorial/
+
 SwiftUI Weather App Example: https://youtu.be/X2W9MPjrIbk?si=_y7svjWf3Elp0XWM
 
 ## Tools Needed
 Tools I will need include:
-SwiftUI: to build the interface of the application
+
+SwiftUI: To build the interface of the application
 https://developer.apple.com/tutorials/swiftui/
-Xcode: to edit the Swift Program 
+
+Xcode: To edit the Swift Program 
 https://developer.apple.com/tutorials/app-dev-training/
