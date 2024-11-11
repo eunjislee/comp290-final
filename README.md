@@ -40,3 +40,7 @@ https://developer.apple.com/tutorials/swiftui/
 
 Xcode: To edit the Swift Program 
 https://developer.apple.com/tutorials/app-dev-training/
+
+## Wireframe Sketch
+I used figma for the iphone background but the rest was created using procreate!
+![Untitled_Artwork](https://github.com/user-attachments/assets/42f2b4ce-6be3-4e4a-b135-35a2072846ab)
